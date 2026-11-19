@@ -14,3 +14,5 @@ void main() {
   // El procedimiento se concentra en una clase
   cine.terminarFuncion();
 }
+
+// Archivo: main.dart

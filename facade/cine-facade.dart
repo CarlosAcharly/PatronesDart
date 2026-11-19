@@ -23,4 +23,5 @@ class CineFacade {
     _proyector.apagar();
   }
 }
- /// vete a la verga marco puto 
+
+// Archivo: cine-facade.dart
