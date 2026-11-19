@@ -18,3 +18,5 @@ class WavAdapter implements Reproductor {
     _wav.detenerWav();
   }
 }
+
+// Archivo: wav_adapter.dart

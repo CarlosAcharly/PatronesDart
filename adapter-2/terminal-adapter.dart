@@ -13,3 +13,5 @@ class TerminalAdapter implements MedioPago {
     terminal.cobrar(totalDolares);
   }
 }
+
+// Archivo: terminal-adapter.dart
