@@ -6,3 +6,5 @@ class Historial implements Observador {
     print('Historial: publicacion registrada de $tarea');
   }
 }
+
+// Archivo: historial.dart

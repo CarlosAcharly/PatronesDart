@@ -15,3 +15,5 @@ void main() {
 
   agenda.publicarTarea("Estudiar patrones de disenio");
 }
+
+// Archivo: main.dart

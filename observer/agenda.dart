@@ -26,3 +26,5 @@ class Agenda {
   // Con observer, la agenda solo conoce el contrato Observador
   // Las clases destinatarias se suscriben o se desuscriben de la agenda
 }
+
+// Archivo: agenda.dart

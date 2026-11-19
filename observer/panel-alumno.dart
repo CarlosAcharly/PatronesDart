@@ -6,3 +6,5 @@ class PanelAlumno implements Observador {
     print("panel Alumno: nueva tarea $tarea");
   }
 }
+
+// Archivo: panel-alumno.dart

@@ -6,3 +6,5 @@ class Notificador implements Observador {
     print("Notificador: se publico $tarea");
   }
 }
+
+// Archivo: notificador.dart
