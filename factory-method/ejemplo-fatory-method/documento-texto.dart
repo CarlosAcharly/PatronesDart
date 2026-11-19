@@ -7,3 +7,5 @@ class DocumentoTexto implements Documento {
     return 'Calificaciones: ${calificaciones.join(', ')}, en formato de word';
   }
 }
+
+// Archivo: documento-texto.dart

@@ -6,3 +6,5 @@ class DocumentoExcel implements Documento {
     return 'Calificaciones: ${calificaciones.join(', ')}';
   }
 }
+
+// Archivo: documento-excel.dart

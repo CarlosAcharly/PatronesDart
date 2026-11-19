@@ -6,3 +6,5 @@ class GeneradorJson extends GeneradorReportes {
   @override
   Documento crearDocumento() => DocumentoJson();
 }
+
+// Archivo: generador-json.dart

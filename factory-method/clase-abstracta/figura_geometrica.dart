@@ -8,3 +8,5 @@ abstract class FiguraGeometrica {
   void obtenerPerimetro();
   void obtenerArea();
 }
+
+// Archivo: figura_geometrica.dart

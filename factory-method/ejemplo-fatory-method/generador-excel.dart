@@ -6,3 +6,5 @@ class GeneradorExcel extends GeneradorReportes {
   @override
   Documento crearDocumento() => DocumentoExcel();
 }
+
+// Archivo: generador-excel.dart

@@ -13,3 +13,5 @@ void main() {
     generador.generarReporte([8, 9, 9, 10]);
   }
 }
+
+// Archivo: main.dart

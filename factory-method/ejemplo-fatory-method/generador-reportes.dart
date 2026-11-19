@@ -12,3 +12,5 @@ abstract class GeneradorReportes {
     print(documento.generar(calificaciones));
   }
 }
+
+// Archivo: generador-reportes.dart

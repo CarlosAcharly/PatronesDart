@@ -9,3 +9,5 @@ class DocumentoJson implements Documento {
     return jsonEncode({'calificaciones': calificaciones});
   }
 }
+
+// Archivo: documento-json.dart

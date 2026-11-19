@@ -20,3 +20,5 @@ class Triangulo implements FiguraGeometrica {
     area = baseTriangulo * altura / 2;
   }
 }
+
+// Archivo: triangulo.dart

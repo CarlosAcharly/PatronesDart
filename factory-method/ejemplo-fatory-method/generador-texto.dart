@@ -6,3 +6,5 @@ class GeneradorTexto extends GeneradorReportes {
   @override
   Documento crearDocumento() => DocumentoTexto();
 }
+
+// Archivo: generador-texto.dart
